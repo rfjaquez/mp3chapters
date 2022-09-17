@@ -162,7 +162,7 @@ def test_chaps(tag):
 
 def main():
     """Entry point"""
-    args = docopt(__doc__, version="mp3chaps 0.5")
+    args = docopt(__doc__, version="mp3chaps 0.5.0")
     mp3file = args["<filename>"]
     print("filename: ", mp3file)
 
