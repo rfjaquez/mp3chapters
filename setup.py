@@ -71,6 +71,7 @@ setup(
   name=NAME,
   version=VERSION,
   description=DESCRIPTION,
+  long_description_content_type="text/x-rst",
   long_description=long_description,
   author=AUTHOR,
   author_email=EMAIL,
