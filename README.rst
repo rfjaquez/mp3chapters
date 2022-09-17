@@ -14,7 +14,7 @@ requirements
 installation
 ++++++++++++
 
- ``pip3 install .``
+ ``pip3 install mp3chapters``
 
 usage
 +++++
