@@ -60,7 +60,7 @@ List chapters with frame details
  
  ``mp3chaps -p episode_42.mp3`` 
 
-Export chapters to <filename>.chaps.txt::
+Export chapters to <filename>.chaps.txt
 +++++++++++++++++++++++++++++++++++++++++
  with **timecode** markers 
  
@@ -69,6 +69,12 @@ Export chapters to <filename>.chaps.txt::
  with **milliseconds** markers 
  
  ``mp3chaps -e=ms episode_42.mp3``
+
+Export chapters to <filename>.cue
++++++++++++++++++++++++++++++++++++++++++
+ create **cue sheet** 
+ 
+ ``mp3chaps -e=cue episode_42.mp3``
 
 Add test chapters marks
 +++++++++++++++++++++++
